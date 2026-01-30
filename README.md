@@ -4,7 +4,7 @@ I am a student at South Eastern Regional College currently undertaking a BSc (Ho
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ joel-taylor-93751b26a)<br><br/> 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joeltaylor1205@icloud.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joeltaylor1205@icloud.com) joeltaylor1205@icloud.com
 
 
 # Tech Stack:

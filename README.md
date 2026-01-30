@@ -1,5 +1,5 @@
 # About Me:
-I am a student at South Eastern Regional College currently undertaking a BSc (Hons) in Cloud Computing. 
+I am a student at South Eastern Regional College currently undertaking a BSc (Hons) in Cloud Computing. <br><br/>
 I am actively developing my technical and software development skills, with a strong interest in cloud technologies, programming, and building practical solutions through hands-on projects.
 
 

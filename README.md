@@ -1,5 +1,5 @@
 # About Me:
-I am a student at South Eastern Regional College currently undertaking a BSc (Hons) in Cloud Computing, during these studies I will be exploring DevOps and Data Engineering.<br>
+I am a student at South Eastern Regional College currently undertaking a BSc (Hons) in Cloud Computing, during my studies I will be exploring DevOps and Data Engineering.<br>
 I am actively developing my technical and software development skills, with a strong interest in cloud technologies, programming, and building practical solutions through hands-on projects.
 
 
